@@ -43,13 +43,13 @@
 
 ## Graphs
 1. UK CPI inflation and bank rate changes over time: 
-    - ![UK CPI Inflation and Bank Rate](figures/inflation_bank_rate.png)
+    - ![UK CPI Inflation and Bank Rate](Figures/inflation_bank_rate.png)
 2. FTSE 100 monthly returns: 
-    - ![FTSE 100 Monthly Returns](figures/ftse_monthly_returns.png)
+    - ![FTSE 100 Monthly Returns](Figures/ftse_monthly_returns.png)
 3. FTSE 100 rolling 12 month volatility: 
-    - ![FTSE 100 Rolling Volatility](figures/ftse_rolling_volatility.png)
+    - ![FTSE 100 Rolling Volatility](Figures/ftse_rolling_volatility.png)
 4. Bank rate chaneges compared to FTSE 100 returns
-    - ![Bank Rate Changes vs FTSE 100 Returns](figures/bank_rate_change_vs_ftse_return.png)
+    - ![Bank Rate Changes vs FTSE 100 Returns](Figures/bank_rate_change_vs_ftse_return.png)
 
 
 ## Limitations
