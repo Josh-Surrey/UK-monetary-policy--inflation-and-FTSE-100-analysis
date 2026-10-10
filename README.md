@@ -5,7 +5,9 @@
  Python is used to clean and merge datasets, calculate returns, visuialise trends and estimate regression models.
 
  ## Hypothesis
+ 
  H0: UK inflation and bank rate changes have no statistically significant relationship with FTSE 100 monthly returns
+ 
  H1: UK inflation and bank rate changes has a statistically significant negative relationship with FTSE 100 monthly returns
 
 
