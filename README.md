@@ -6,9 +6,9 @@
 
  ## Hypothesis
  
- H0: UK inflation and bank rate changes have no statistically significant relationship with FTSE 100 monthly returns
+ H0: UK inflation and bank rate changes have no statistically significant relationship with FTSE 100 monthly returns.
  
- H1: UK inflation and bank rate changes has a statistically significant negative relationship with FTSE 100 monthly returns
+ H1: UK inflation and bank rate changes has a statistically significant negative relationship with FTSE 100 monthly returns.
 
 
  ## Data sources
@@ -39,7 +39,7 @@
 2. The regression produced a 0.004 R squared, this means CPI inflation and bank rate changes explained just 0.4% of variation in FTSE 100 returns
 3. CPI inflation and bank rate changes were not significant predictors in FTSE 100 returns
 4. The one month lagged regression produced similar results; there was an R squared of 0.007 and no significant coefficients
-5. Monthly FTSE 100 peformance cannot be well explained by uk inflation and bank changes alone.
+5. Monthly FTSE 100 peformance cannot be well explained by uk inflation and bank changes alone
 
 ## Graphs
 1. UK CPI inflation and bank rate changes over time: 
@@ -53,12 +53,12 @@
 
 
 ## Limitations
-1. The analysis identifies statistical relationships, but does not establish causation.
-2. The market is not under ceretis paribus conditions, and so other factors can influence the FTSE 100 returns. 
-3. Equity markets are influenced by numerous factors, including global economic conditions, investor sentiment,and geopolitical events. 
-4. Financial markets also respond to expectations of future economic conditions.
+1. The analysis identifies statistical relationships, but does not establish causation
+2. The market is not under ceretis paribus conditions, and so other factors can influence the FTSE 100 returns
+3. Equity markets are influenced by numerous factors, including global economic conditions, investor sentiment,and geopolitical events
+4. Financial markets respond to expectations of future economic conditions
 
 ## Conclusions 
 The project demonstrates use of python, regression modelling, analysis, data collection, cleaning and graphing. 
-Using this the project investigated Uk monetary and ionflation impact on FTSE 100 returns and identified no significant correlation. 
-The methodology could be improved: such as analysing unexpected bank rate changes rather than raw data, analysing more financial decisions that may have impacted the market, finally comparing the FTSE 100 to FTSE 250, for more domestic exposure
+Using this the project investigated Uk monetary and inflationary impact on FTSE 100 returns and identified no significant correlation. 
+The methodology could be improved: such as analysing unexpected bank rate changes rather than raw data, analysing more financial decisions that may have impacted the market, finally comparing the FTSE 100 to FTSE 250, for more domestic exposure.
