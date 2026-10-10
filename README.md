@@ -35,7 +35,7 @@
  8. Estimate contemporaneous and one month lagged ONS regression models
 
  ## Key findings
-1. This project found very weak correlation between uk inflation, bank rate changes and FTSE 100 returns
+1. This project found very weak statistical significance between uk inflation, bank rate changes and FTSE 100 returns
 2. The regression produced a 0.004 R squared, this means CPI inflation and bank rate changes explained just 0.4% of variation in FTSE 100 returns
 3. CPI inflation and bank rate changes were not significant predictors in FTSE 100 returns
 4. The one month lagged regression produced similar results; there was an R squared of 0.007 and no significant coefficients
