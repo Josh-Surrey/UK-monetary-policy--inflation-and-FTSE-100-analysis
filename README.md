@@ -29,7 +29,7 @@
  2. Clean date formats and inconsistent data structures
  3. Convert FTSE 100 dailly prices to monthly
  4. Calculate yearly rolling volatility
- 5. convert bank rate changes to monthly time series
+ 5. Convert bank rate changes to monthly time series
  6. Merge inflation, bank rate and FTSE 100 to one dataset
  7. Analyse correlations of macroeconomic data and FTSE returns
  8. Estimate contemporaneous and one month lagged ONS regression models
