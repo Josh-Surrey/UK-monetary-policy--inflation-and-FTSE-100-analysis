@@ -48,7 +48,7 @@
     - ![FTSE 100 Monthly Returns](Figures/ftse_monthly_returns.png)
 3. FTSE 100 rolling 12 month volatility: 
     - ![FTSE 100 Rolling Volatility](Figures/ftse_rolling_volatility.png)
-4. Bank rate chaneges compared to FTSE 100 returns
+4. Bank rate chaneges compared to FTSE 100 returns:
     - ![Bank Rate Changes vs FTSE 100 Returns](Figures/bank_rate_change_vs_ftse_return.png)
 
 
